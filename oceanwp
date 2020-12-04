@@ -1,1 +1,4 @@
-Αλλαγή badge position.
+<h4>Αλλαγή badge position σε template woocommerce του oceanwp</h4>
+if ( class_exists( 'OceanWP_WooCommerce_Config' ) ) {
+      OceanWP_WooCommerce_Config::add_out_of_stock_badge();
+    }
