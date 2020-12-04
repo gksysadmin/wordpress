@@ -1,2 +1,2 @@
-# wordpress
-Basic File Settings for wordpress
+<h4>Αλλαγή badge position σε template woocommerce του oceanwp</h4>
+
