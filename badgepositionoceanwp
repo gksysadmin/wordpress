@@ -1,3 +1,5 @@
+Try to copy the owp-archive-product.php file in your child theme and add the below code in that place where you want to show the badge.
+
 if ( class_exists( 'OceanWP_WooCommerce_Config' ) ) {
       OceanWP_WooCommerce_Config::add_out_of_stock_badge();
     }
